@@ -34,6 +34,4 @@ Para os testes unitários, foram utilizados  JUnit 5 e Mock;
 
 **Acesso ao Banco de Dados:** (Não necessita login e senha)
 
-- Cloud: `https://meals-project-api.herokuapp.com/api/v1/meals`
-
 - Local: `http://localhost:8080/h2-console`
