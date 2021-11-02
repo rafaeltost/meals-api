@@ -26,7 +26,9 @@ Para os testes unitários, foram utilizados  JUnit 5 e Mock;
 
 **Pontos de acesso para API:** 
 
-- Cloud: `https://meals-project-api.herokuapp.com/api/v1/meals`
+-Swagger: https://meals-project-api.herokuapp.com/swagger-ui/index.html
+
+- Cloud: https://meals-project-api.herokuapp.com/api/v1/meals
 
 - Local: `http://localhost:8080/api/v1/meals`
 
